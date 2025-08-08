@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mamta Borade</h1>
 <h3 align="center">A passionate Embedded Engineer from India</h3>
 
+<img align="right" alt="coding" width="400" heigth="400" src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966 ">
+
 - 📫 How to reach me **mamtaborade82gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ngm_QRfmCVzm65H-VXFeCmolBBlBUBGy/view?usp=drive_link](https://drive.google.com/file/d/1ngm_QRfmCVzm65H-VXFeCmolBBlBUBGy/view?usp=drive_link)
